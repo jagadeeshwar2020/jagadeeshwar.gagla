@@ -1,0 +1,5 @@
+conflict scenario file in test branch > commonfile.txt
+:q!
+
+
+
